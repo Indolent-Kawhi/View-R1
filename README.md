@@ -1,7 +1,7 @@
-# View-R1: Enhancing Multimodal Reasoning via Difficulty-Adaptive Divergence Shaping and Trajectory Complexity Regularization
+# [APO: Enhancing Reasoning Ability of MLLMs via Asymmetric Policy Optimization](https://arxiv.org/pdf/2506.21655)
 
 ## Introduction
-View-R1, a novel framework aimed at bolstering the reasoning capabilities of multimodal large language models, is presented in this work.
+APO, a novel framework aimed at bolstering the reasoning capabilities of multimodal large language models, is presented in this work.
 
 ### Mitigates "overthinking":
 - The work tackles the issue of MLLMs generating excessively long and often incorrect reasoning paths by introducing Suboptimal Trajectory Complexity Regularization (STCR).
